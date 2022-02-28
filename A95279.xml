@@ -1,0 +1,219 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the taking of Sherborn castle. With six hundred prisoners, one thousand arms, and great store of other provisions. Sent in two letters, the one, to the Right Honourable, William Lenthall Speaker of the House of Commons. And the other, to Edmund Prideaux and Dennis Bond, Esqs; members of the said House. Commanded to be forthwith printed by the Honorable, William Lenthall, Speaker of the House of Commons.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95279</idno>
+            <idno type="STC">Wing T3054</idno>
+            <idno type="STC">Thomason E296_32</idno>
+            <idno type="STC">ESTC R200216</idno>
+            <idno type="EEBO-CITATION">99861021</idno>
+            <idno type="PROQUEST">99861021</idno>
+            <idno type="VID">158675</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95279)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158675)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 49:E296[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the taking of Sherborn castle. With six hundred prisoners, one thousand arms, and great store of other provisions. Sent in two letters, the one, to the Right Honourable, William Lenthall Speaker of the House of Commons. And the other, to Edmund Prideaux and Dennis Bond, Esqs; members of the said House. Commanded to be forthwith printed by the Honorable, William Lenthall, Speaker of the House of Commons.</title>
+                  <author>Lenthall, William, 1591-1662.</author>
+                  <author>Prideaux, Edmond, Sir, d. 1659.</author>
+                  <author>Bond, Denis, Esq.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, Printer to the Honorable House of Commons.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Aug. 18. 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Sherborne (Dorset, England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158675:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 41 -->
+            <p>A TRUE RELATION OF The taking of <hi>Sherborn</hi>-Caſtle.</p>
+            <p>WITH Six hundred Priſoners, One thouſand Arms, and great ſtore of other Proviſions.</p>
+            <p>
+               <hi>Sent in two Letters,</hi> The one, To the Right Honourable, WILLIAM LENTHALL Speaker of the Houſe of Commons.</p>
+            <p>And the other, To <hi>Edmund Prideaux</hi> and <hi>Dennis Bond,</hi> 
+               <abbr>Eſqs</abbr> Members of the ſaid Houſe.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>COmmanded to be forthwith printed by the Hono<g ref="char:EOLhyphen"/>rable,</hi> William Lenthall, <hi>Speaker of the Houſe of</hi> COMMONS.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed for <hi>Edward Husband,</hi> Printer to the Ho<g ref="char:EOLhyphen"/>norable Houſe of Commons. Aug. 18. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letters">
+            <pb facs="tcp:158675:2"/>
+            <!-- PDF PAGE 42 -->
+            <pb n="3" facs="tcp:158675:2"/>
+            <!-- PDF PAGE 42 -->
+            <head>A Copy of a Letter ſent to the Honorable <hi>VVilliam Lenthall,</hi> Speaker of the Houſe of Commons.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">S</seg>Ince this Army came out into the Field, God hath done great things by it; I have been an eye-witneſſe of them all; but in my judgement, this of Sherborn Caſtle (if God deliver it into our hands) as I hope he will within few hours, is not the leaſt; which, by the Valour of our Commanders and Souldiers, in fourteen dayes time we gained ground of the Enemy by our approaches, and made Galleries cloſe to the wall, Bridges over the Moats, and drive a Mine to the Foundation of the Wall, where they met with a Rock which loſt us a
+<pb n="4" facs="tcp:158675:3"/>
+                     <!-- PDF PAGE 43 -->dayes time: Things being in this forwardneſſe, Wedneſday the 13. of <hi>Auguſt,</hi> the Country was Commanded to bring in Ladders to Scale the Walls and Out-works: The whole Cannon and Demy-Cannon were planted within twen<g ref="char:EOLhyphen"/>ty yards of the Wall that night, (as on other nights) the Enemy had great lights of Torches Links, &amp;c. on the end of the Pikes, to ſee if they could diſcover our Mine, or Works, and how our men ſtood, the better to ſhoot at them, and threw over fired Faggots, which (the firſt time they did it) fired our Bridge, but our Souldiers inſtantly quenched it, and ſaved the Bridge; our Souldiers and theirs diſcourſe all night, throw ſtones each at other; our men tell <hi>lack Cab,</hi> that Prince <hi>Rupert</hi> is turned Sutler, and hath nothing left but ſtrong drink to comfort him. Thurſ<g ref="char:EOLhyphen"/>day the 14. of <hi>Auguſt,</hi> about eleven of the Clock, our great Guns began to Batter the Wall be<g ref="char:EOLhyphen"/>tween the two leſſer Towers, and beat down one of the Towers, and before ſix at night made a Breach that twelve a breaſt might enter; But it was not held fit to fall on immediately; but the Generall (whoſe Perſon hath been too much hazarded in this buſineſſe) ſent in a
+<pb n="5" facs="tcp:158675:3"/>
+                     <!-- PDF PAGE 43 -->Drum with a third Summons to Surrender the Caſtle, that if we be put to Storm, they be left inexcuſeable within. And a gap is opened in the Wall, for Sir <hi>Lewis Dives</hi> with ſome honour to come out, if he will, if he refuſe, you will finde (ſo full of Revenge are our Soldiers againſt the Cabs in the Caſtle) that they will ſpare the life of none if they be put to Storm, and much ado we ſhall have to ſave them if it be Surren<g ref="char:EOLhyphen"/>dred. The Drum is detained who was to re<g ref="char:EOLhyphen"/>turn preſently; the Lady <hi>Dives</hi> ſends not to come out, though the Generall ſent twice to of<g ref="char:EOLhyphen"/>fer it, ſhe may deſire it too late; we being in much want of Canon and Demy-Canon Bul<g ref="char:EOLhyphen"/>lets, were inforced to invite the Souldiers to leap off the Gallery, and go under the Wall and fetch back thoſe Bullets that fell down, promi<g ref="char:EOLhyphen"/>ſing them ſix pence for every Canon Bullet, and four pence for leſſer; and this day, though the Enemy pelted them with ſtones, they brought back about two hundred Canon, Demy-Ca<g ref="char:EOLhyphen"/>non and Culve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in ſhot, and had their reward duly paid them, and deſervedly. I deſire you to loſe no time, but haſten down great ſhot, and all things neceſſary for Sieges to
+<pb n="6" facs="tcp:158675:4"/>
+                     <!-- PDF PAGE 44 -->ſome Port Town, that they may be ſent for as need is.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Sherborn,</hi> 
+                        <date>
+                           <hi>Auguſt</hi> 14. twelve at night.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Since the writing hereof, about two of the Clock this morning, Sir <hi>Lewis</hi> ſent out a Drum with this Meſſage in writing:</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>
+                     <hi>I</hi> Muſt acknowledge the advantage you have of me, by being Maſter of my walls, and that you may not think me obſtinate without reaſon, I have ſent this Drum unto you; to let you know, that if I may have ſuch conditions from you, as is fit for a Soul<g ref="char:EOLhyphen"/>dier and a Gentleman with honour to ac<g ref="char:EOLhyphen"/>cept
+<pb n="7" facs="tcp:158675:4"/>
+                     <!-- PDF PAGE 44 -->of, I ſhall ſurrender this Caſtle into your hands: otherwiſe, I ſhall eſteem it a far greater happineſſe to bury my bones in it, and the ſame Reſolution have all thoſe that are with me. And give me leave to adde this, that your victory will be Crowned with more honour by granting it, then you will gain glo<g ref="char:EOLhyphen"/>ry by the winning it with the loſſe of ſo much blood as it will coſt,</p>
+                  <closer>
+                     <dateline>Sherborn Caſtle <date>Aug. <hi>15. 1645.</hi>
+                        </date>
+                     </dateline>
+                     <signed>I am your ſervant, <hi>Lewis Dives.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>What anſwer will be returned, I know not, I conceive if they have Quarter for their lives, it will be all that will be granted them; for ſome time this day the buſineſſe will be decided by Conditions or a Storm; but to have Honorable Conditions is too late to aske.</p>
+            <closer>
+               <dateline>
+                  <hi>Sherborn</hi> 
+                  <date>this 15. <hi>of Aug.</hi> 1645. 3. <hi>in the morning.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="8" facs="tcp:158675:5"/>
+            <!-- PDF PAGE 45 -->
+            <head>To his Honoured Friends, <hi>Edm: Prideaux,</hi> and <hi>Dennis Bond,</hi> 
+               <abbr>Eſqs</abbr> theſe preſent.</head>
+            <opener>
+               <salute>Honoured Sirs,</salute>
+            </opener>
+            <p>YOu may be aſſured <hi>Sherborn</hi> Caſtle is Surrendred upon mercy for their lives; few men ſlain by the violence of the Souldier, and as few left unſtript, the Souldiers Plunder merrily: This is a place of great conſequence, the Lord be praiſed we have taken it; our Souldiers fight valiantly, In haſt I reſt</p>
+            <closer>
+               <signed>Your moſt humble ſervant, <hi>Jo: Bingham.</hi>
+               </signed>
+               <dateline>
+                  <hi>Sherborn Caſtle</hi> 
+                  <date>
+                     <hi>Aug.</hi> 15. 1645.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>There were taken ſix hundred priſo<g ref="char:EOLhyphen"/>ners, a thouſand Arms, with a great deal of proviſions, and other houſhold-ſtuffe.</p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
